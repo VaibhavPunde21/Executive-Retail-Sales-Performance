@@ -50,7 +50,8 @@ This project solves these challenges using interactive data visualization.
 ---
 
 ## 📷 Dashboard Preview
-(Add your image here)
+SD.png
+
 
 ---
 
