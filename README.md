@@ -50,8 +50,7 @@ This project solves these challenges using interactive data visualization.
 ---
 
 ## 📷 Dashboard Preview
-SD.png
-
+SD.pngretail-sales-dataset.ipynb
 
 ---
 
